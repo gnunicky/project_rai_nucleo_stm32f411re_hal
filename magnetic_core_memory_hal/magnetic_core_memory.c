@@ -6,7 +6,7 @@
  * academic year 2014-15.
  * The code, flashed on an STMIcroelectronics microcontroller, implements
  * basic, read/write routines of a magnetic core memory array and is a porting
- * of an existing project for Arduino I developed by Ben North and Oliver Yash.
+ * of an existing project for Arduino I developed by Ben North and Oliver Nash.
  * 
  * Copyright (C) 2015 onwards Nicola Didomenico (nicola.didomenico@gmail.com)
  * Copyright (C) 2015 onwards Salvatore Del Popolo (popolo@tin.it)
